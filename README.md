@@ -1,6 +1,6 @@
 🎵 composer & 💻 programmer
 
-future projects:
-- 🥔 potatodo
-- 🥝 kiwiki
+current projects:
 - 🥦 broccolisp
+- 🍍 pineapage
+- 🥔 potatodo
