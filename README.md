@@ -3,5 +3,5 @@
 current projects:
 - 🥦 broccolisp
 - 🍍 pineapage
-- 🥔 potatodo
+- 🥔 topotato
 - 🫒 olive RPG
