@@ -3,5 +3,4 @@
 current projects:
 - 🥦 broccolisp
 - 🍍 pineapage
-- 🥝 kiwiki
 - 🫒 olive RPG
