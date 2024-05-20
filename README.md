@@ -1,6 +1,10 @@
 🎵 composer & 💻 programmer
 
 current projects:
-- 🥦 broccolisp
-- 🍍 pineapage
-- 🫒 olivo RPG
+- 🫒 **olea** RPG
+- 🍂 **foli** site generator
+
+future projects:
+- 🍇 **vino** text editor
+- 🫐 **baya** fantasy console
+- 🍐 **pera** programming language
